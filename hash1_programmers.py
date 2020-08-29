@@ -1,3 +1,5 @@
+# 완주하지 못한 선수
+
 def solution(participant, completion):
     answer=''
     count_dictionary = {}
@@ -21,8 +23,7 @@ def solution(participant, completion):
             answer=name
 
     return answer
-    
-    -----------------------
+ 
     
 """ 더 간단한 풀이도 있음
 import collections
