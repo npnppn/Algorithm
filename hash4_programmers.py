@@ -14,4 +14,5 @@ def solution(genres, plays):
     #그 값들을 모두 합한 값을 key로 sorted를 하게 되는 것
     
     #lamda식 안에 lamda를 집어넣을수도 있구나!
-    #lamda가 dictionary 방법보다 어렵게 느껴짐.. 
+    #lamda가 dictionary 방법보다 어렵게 느껴짐.. 람다식 좀더 공부해야봐야할듯!
+    #해쉬 알고리즘 문제들 풀면서 느낀점 : 파이썬이 딕셔너리 덕분에 확실히 편한느낌.
