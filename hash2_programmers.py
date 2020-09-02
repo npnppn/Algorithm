@@ -15,7 +15,7 @@ def solution(phone_book):
     
     ------------
     
-"""밑에 방법이 해쉬 제대로 사용한 거
+"""밑에 방법이 해쉬 알고리즘 이용하여 제대로 푼 방법
 
 def solution(phone_book):
     answer = True
