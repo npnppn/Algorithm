@@ -9,3 +9,4 @@ def solution(clothes):
     
 # reduce 함수? 흠.. 람다식도 한번 더 공부해보기
 # 이건 수학문제... 휴우..
+# counter 객체 다시한번 
