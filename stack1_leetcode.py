@@ -16,3 +16,4 @@ class Solution:
         return len(stack) == 0
         
   # 스택 가장 기본적인 문제.
+  # 스택큐는 꼭 알아두자 
