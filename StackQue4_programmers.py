@@ -17,3 +17,5 @@ def solution(priorities, location):
             sample.append(sample.pop(0))
 
     return answer
+
+#우선순위 큐? 내용 완벽하게 이해 x
