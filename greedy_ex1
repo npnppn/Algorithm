@@ -1,1 +1,11 @@
-#동빈나 파이썬 코딩테스트 기본문제 
+#동빈나 파이썬 코딩테스트 기본문제 (거스름돈 문제 연습)
+n =1260
+count = 0
+
+array = [500, 100, 50, 10]
+
+for coin in array:
+    count += n
+    n %= coin
+
+print(count)
