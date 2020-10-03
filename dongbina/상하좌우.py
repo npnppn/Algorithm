@@ -13,7 +13,7 @@ for plan in plans:
         if plan == move_types[i]:
             nx = x + dx[i]
             ny = y + dy[i]
-
+#예외 처리
     if nx < 1 or ny < 1 or nx > n or ny > n:
         continue
 
