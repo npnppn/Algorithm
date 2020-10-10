@@ -1,3 +1,6 @@
+#반복되는 수열에 대해서 파악하는것이 핵심!
+#가장 큰 수와 두번째 큰 수만 저장하면 구현가능한 형태.
+
 n, m, k = map(int, input().split())
 data = list(map(int, input().split()))
 
