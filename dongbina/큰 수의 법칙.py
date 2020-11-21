@@ -17,4 +17,3 @@ result = 0
 result += count * first
 result += (m-count) * second
 print(result)
-
